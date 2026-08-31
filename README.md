@@ -118,7 +118,7 @@ Based on the completed Power BI dashboard:
 - Customer activity shows substantial growth over the analysis period.
 - Average delivery time is approximately **12.50 days**.
 - Average processing time is approximately **3.22 days**.
-- Late deliveries account for approximately **8.11%**.
+- Late deliveries account for approximately **6.77%**.
 - Average delivery delay is approximately **8.87 days**.
 - Late-delivery performance varies across customer states.
 - Most deliveries are concentrated in lower delivery-time ranges, with a smaller group of longer deliveries.
